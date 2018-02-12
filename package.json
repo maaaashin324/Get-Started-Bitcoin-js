@@ -1,0 +1,17 @@
+{
+  "name": "Get-Started-Bitcoin-js",
+  "version": "1.0.0",
+  "description": "This was created during my time as a student at Code Chrysalis.",
+  "main": "index.js",
+  "repository": "https://github.com/maaaashin324/Get-Started-Bitcoin-js.git",
+  "author": "maaaashin324 <mstk.shin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
