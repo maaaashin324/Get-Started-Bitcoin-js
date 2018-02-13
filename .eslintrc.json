@@ -3,7 +3,7 @@
     "es6": true,
     "node": true
   },
-  "extends": "airbnb-base/legacy",
+  "extends": "airbnb-base",
   "rules": {
     "indent": [
       "error",
@@ -17,10 +17,7 @@
       "error",
       "single"
     ],
-    "semi": [
-      "error",
-      "never"
-    ],
+    "semi":"error",
     "no-console":"off"
   }
 }
