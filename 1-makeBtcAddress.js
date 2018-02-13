@@ -1,4 +1,6 @@
+// config
 const bitcoin = require('bitcoinjs-lib');
+require('dotenv').config();
 
 // Tips:
 // BlockExplorer : http://tbtc.blockchainhub.co.jp/
@@ -17,8 +19,7 @@ const myWIF = keyPair.toWIF();
 console.log(myWIF);
 
 // If you have Bitcoin Secret, you can retrieve your Private key.
-// const myWIF = '';
-// const keyPair = bitcoin.ECPair.fromWIF(myWIF, testNet);
+// const keyPair = bitcoin.ECPair.fromWIF(process.env.myWIF, testNet);
 
 // Bitcoin Address is necessary to get Bitcoin.
 // When you get a Bitcoin address, DO NOT FORGET to memoize your Bitcoin Secret.
