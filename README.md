@@ -6,8 +6,15 @@ This was created during my time as a student at Code Chrysalis.
 
 ## 2. Install [Node.js](https://nodejs.org/en/)
 
-*If you are Mac user, you need to install XCode and XCode command tools.  
-*After that, install [Homebrew](https://brew.sh/) and [Nodebrew](https://github.com/hokaccha/nodebrew)
+### Windows User
+
+Just install Node.js.
+
+### Mac User
+
+- If you are Mac user, you need to install XCode and XCode command tools.
+
+- After that, install [Homebrew](https://brew.sh/) and [Nodebrew](https://github.com/hokaccha/nodebrew)
 
 ## 3. Git clone this repository in your computer
 
