@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# This file is only for the host
+.giveBtc.js

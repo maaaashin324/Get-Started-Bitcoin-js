@@ -7,10 +7,10 @@ const testNet = bitcoin.networks.testnet;
 const keyPair = bitcoin.ECPair.fromWIF(process.env.myWIF, testNet);
 const myBitcoinAddress = keyPair.getAddress();
 
-// Step2: Check Bitcoin I sent you and memo!
 const balanceUrl = `http://tapi.qbit.ninja/balances/${myBitcoinAddress}?unspentonly=true`;
 const txIdUrl = 'http://tapi.qbit.ninja/transactions/';
 
+// Step2: Check Bitcoin I sent you and memo!
 fetch(balanceUrl)
   .then(res => res.json())
   .then((json) => {
