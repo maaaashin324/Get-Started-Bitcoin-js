@@ -2,6 +2,10 @@
 
 This was created during my time as a student at Code Chrysalis.
 
+## Pre-requisite Knowledge
+
+This meetup and demonstration assumes that you have working knowledge of git and JavaScript.
+
 ## 1. Install [VSCode](https://code.visualstudio.com/)
 
 ## 2. Install [Node.js](https://nodejs.org/en/)
