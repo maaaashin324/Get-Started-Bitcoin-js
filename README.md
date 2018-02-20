@@ -70,7 +70,7 @@ yarn install
 
 ## 5. Make your Bitcoin private key and public key : Bitcoin Address
 
-- Let's make your Bitcoin Address with `1-makeBtcAddress.js`. If you want to know the answer, check 'ans-1-makeBtcAddress.js'.
+- Let's make your Bitcoin Address with `1-makeBtcAddress.js`.
 - Please let me know your Bitcoin Address on [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSec7jO_a5PAP76-oVz6Ru0wDv-Xn5_5kfNZXL4-n9xKdTrujA/viewform?usp=pp_url&entry.148575301)
 - make your dotenv file and input your Bitcoin WIF like the following.
 
@@ -95,4 +95,4 @@ myWIF = 'write down your Bitcoin WIF. NOT YOUR BITCOIN ADDRESS!'
 
 ## 7. Return back your Bitcoin to me!
 
-Please return back the Bitcoin to me! The Bitcoin is only for testnet, so if you keep the Bitcoin, you can use it only for test! Let's make a transaction for sending your Bitcoin to me with `3-returnBackBtc.js`. If you want to see a solution code, check `ans-3-returnBackBtc.js`.
+Please return back the Bitcoin to me! The Bitcoin is only for testnet, so if you keep the Bitcoin, you can use it only for test! Let's make a transaction for sending your Bitcoin to me with `3-returnBackBtc.js`.
