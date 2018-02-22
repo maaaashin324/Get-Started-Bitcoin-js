@@ -24,8 +24,8 @@ const masaBtcAddress = 'n2hq42xPhcWuBYQcp6GFpWYAgMoxbcYStm';
 
 // Add transaction output. This means who you will send your Bitcoin and how much you will send.
 // And DO NOT FORGET to send yourself as change if you want.
-// txBuilder.addOutput(masaBtcAddress, 80000);
-// txBuilder.addOutput(myBitcoinAddress, 10000);
+// txBuilder.addOutput(masaBtcAddress, 8000);
+// txBuilder.addOutput(myBitcoinAddress, 1000);
 
 // Sign your transaction
 // txBuilder.sign(0, keyPair);
